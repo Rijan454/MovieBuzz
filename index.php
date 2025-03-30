@@ -12,7 +12,7 @@
     <header class="bg-dark text-white p-3">
         <div class="container d-flex justify-content-between align-items-center">
             <a href="index.php" class="navbar-brand">
-                <img src="images/mausam.png" alt="Rateflix" style="height: 40px;">
+                <img src="images/logologin.png" alt="Rateflix" style="height: 40px;">
             </a>
             <nav>
                 <a href="index.php" class="text-white mx-2">Home</a>
@@ -28,7 +28,7 @@
     <div class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/mausam.png" class="d-block w-100" alt="Deadpool 3">
+                <img src="images/test.png" class="d-block w-100" alt="Deadpool 3">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>July 26th - Deadpool 3</h5>
                     <p>Fantasy, Action</p>
@@ -78,7 +78,7 @@
         </div>
         <div class="row">
             <div class="col-md-3">
-                <img src="images/mausam.png" class="img-fluid" alt="House of the Dragon">
+                <img src="images/test.png" class="img-fluid" alt="House of the Dragon">
             </div>
             <div class="col-md-3">
                 <img src="images/mausam.png" class="img-fluid" alt="The Boys">
